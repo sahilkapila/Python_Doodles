@@ -23,3 +23,4 @@ else:
 sam, john, martin = 17,12,"Test"
 
 print(str(sam)+"\n"+str(john)+"\n"+martin)
+
