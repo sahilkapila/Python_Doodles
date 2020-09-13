@@ -9,3 +9,13 @@ print("Just so you know Age: "+str(age))
 print("Hello World..\nHello, "+sentence+"\nJust so you know Age: "+str(age))
 
 passwordfile = open('Testfile.txt')
+
+secretPassword = passwordfile.read()
+
+print("Enter Password: /n")
+typedPassword = input()
+
+if typedPassword == secretPassword:
+    print("Success!!!")
+else:
+    print("Failed")
