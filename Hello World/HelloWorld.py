@@ -19,6 +19,13 @@ passwordfile = open(abs_file_path,"a+")
 
 secretPassword = passwordfile.read()
 
+if secretPassword == "":
+    print("Password not set please enter it :")
+    newpassword = input()
+    passwordfile.write(newpassword)
+else:
+    print("fetching password....")
+
 passwordfile.close()
 
 print("Enter Password: ")
