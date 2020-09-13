@@ -2,11 +2,11 @@ print("Hello World")
 age = 20
 sentence = "this is a test"
 
-print("Hello, "+sentence)
+print("Hello, ",sentence)
 
-print("Just so you know Age: "+str(age))
+print("Just so you know Age: ",age)
 
-print("Hello World..\nHello, "+sentence+"\nJust so you know Age: "+str(age))
+print("Hello World..\nHello, ",sentence,"\nJust so you know Age: ",age)
 
 import os
 
@@ -39,6 +39,6 @@ else:
 
 sam, john, martin = 17,12,"Test"
 
-print(str(sam)+"\n"+str(john)+"\n"+martin)
-print("Test splicing: \n"+secretPassword[0:2])
+print(str(sam),"\n",str(john),"\n",martin)
+print("Test splicing: \n",secretPassword[0:2])
 
