@@ -24,6 +24,7 @@ booleanoperations = ["and","or","not"]
 print(booleanoperations)
 
 for x in booleanoperations:
+#    print(x)
     if (x == "and"):
         print(x,"\t",a and b)
     if (x == "or"):
