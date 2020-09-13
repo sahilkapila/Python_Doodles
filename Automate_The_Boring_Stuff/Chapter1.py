@@ -1,5 +1,3 @@
-#Math operators
-
 a = 3
 b = 2
 
@@ -22,3 +20,8 @@ print("Ah ACK!! ",myname)
 from varname import nameof
 
 print("Length of variable ",nameof(myname)," : ",len(myname))
+print("String of variable ",nameof(myname)," : ",str(myname))
+if myname.isdigit():
+    print("Integer of variable ",nameof(myname)," : ",int(myname))
+if myname.isdecimal():
+    print("Float of variable ",nameof(myname)," : ",float(myname))
