@@ -12,10 +12,14 @@ passwordfile = open('Testfile.txt')
 
 secretPassword = passwordfile.read()
 
-print("Enter Password: /n")
+print("Enter Password: ")
 typedPassword = input()
 
 if typedPassword == secretPassword:
     print("Success!!!")
 else:
     print("Failed")
+
+sam, john, martin = 17,12,"Test"
+
+print(str(sam)+"\n"+str(john)+"\n"+martin)
