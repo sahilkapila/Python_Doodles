@@ -10,14 +10,16 @@ print("Hello World..\nHello, "+sentence+"\nJust so you know Age: "+str(age))
 
 import os
 
-script_dir = os.path.dirname("/Hello World")
-rel_path = "/Hello World/Testfile.txt"
+script_dir = os.path.dirname("Hello World")
+rel_path = "Testfile.txt"
 abs_file_path = os.path.join(script_dir, rel_path)
 
-# passwordfile = open(abs_file_path)
-passwordfile = open()
+passwordfile = open(abs_file_path,"a+")
+# passwordfile = open("Testfile.txt")
 
 secretPassword = passwordfile.read()
+
+passwordfile.close()
 
 print("Enter Password: ")
 typedPassword = input()
