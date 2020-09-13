@@ -21,6 +21,14 @@ print(operations[5],"\t",a>=b)
 
 booleanoperations = ["and","or","not"]
 
-print(booleanoperations[0],"\t",a and b)
-print(booleanoperations[1],"\t",a or b)
-print(booleanoperations[2],"\t",not a," ",not b)
+print(booleanoperations)
+
+for x in booleanoperations:
+    if (x == "and"):
+        print(x,"\t",a and b)
+    if (x == "or"):
+        (x,"\t",a or b)
+    if (x == "not"):
+        (x,"\t",not a," ",not b)
+else:
+    print("Finally finished....")
