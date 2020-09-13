@@ -14,7 +14,7 @@ script_dir = os.path.dirname("Hello World")
 rel_path = "Testfile.txt"
 abs_file_path = os.path.join(script_dir, rel_path)
 
-passwordfile = open(abs_file_path,"a+")
+passwordfile = open(abs_file_path,"r+")
 # passwordfile = open("Testfile.txt")
 
 secretPassword = passwordfile.read()
@@ -23,10 +23,11 @@ if secretPassword == "":
     print("Password not set please enter it :")
     newpassword = input()
     passwordfile.write(newpassword)
+    passwordfile.close()
+    exit(0)
 else:
     print("fetching password....")
-
-passwordfile.close()
+    passwordfile.close()
 
 print("Enter Password: ")
 typedPassword = input()
