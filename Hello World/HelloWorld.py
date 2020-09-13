@@ -8,7 +8,14 @@ print("Just so you know Age: "+str(age))
 
 print("Hello World..\nHello, "+sentence+"\nJust so you know Age: "+str(age))
 
-passwordfile = open('Testfile.txt')
+import os
+
+script_dir = os.path.dirname("/Hello World")
+rel_path = "/Hello World/Testfile.txt"
+abs_file_path = os.path.join(script_dir, rel_path)
+
+# passwordfile = open(abs_file_path)
+passwordfile = open()
 
 secretPassword = passwordfile.read()
 
