@@ -1,0 +1,26 @@
+# Flow Control
+
+a = True
+b = False
+
+from varname import nameof
+
+print("The value of \t",nameof(a),"\t",a)
+print("The value of \t",nameof(b),"\t",b)
+
+print("Now we will evaluate conditions....")
+
+operations = ["Equal to","Not Equal to","Less than","Greater than","Less than or equal to","Greater than or equal to"]
+
+print(operations[0],"\t",a==b)
+print(operations[1],"\t",a!=b)
+print(operations[2],"\t",a<b)
+print(operations[3],"\t",a>b)
+print(operations[4],"\t",a<=b)
+print(operations[5],"\t",a>=b)
+
+booleanoperations = ["and","or","not"]
+
+print(booleanoperations[0],"\t",a and b)
+print(booleanoperations[1],"\t",a or b)
+print(booleanoperations[2],"\t",not a," ",not b)
