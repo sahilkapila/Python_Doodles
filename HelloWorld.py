@@ -23,4 +23,5 @@ else:
 sam, john, martin = 17,12,"Test"
 
 print(str(sam)+"\n"+str(john)+"\n"+martin)
+print("Test splicing: \n"+secretPassword[0:2])
 
