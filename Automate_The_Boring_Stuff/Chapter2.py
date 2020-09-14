@@ -41,4 +41,22 @@ while x < repeat:
     print("In a while")
     x = x +1
 
+#testing break statements
+
+y,z = 0,5
+repeat = 10
+print("In a while with break ",nameof(repeat)," = ",repeat)
+while y < repeat:
+    print(y)
+    if y==z:
+        print("At postion :", y)
+    if (y%2) == 0:
+        print("Multiple of 2")
+    y = y + 1
+
+total = 0
+for num in range(100):
+    total = total + num
+
+print(total)
 
