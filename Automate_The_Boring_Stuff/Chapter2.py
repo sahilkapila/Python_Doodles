@@ -72,3 +72,26 @@ for num in range(first,last):
     total = total + num
 
 print(nameof(total),"\t",total)
+
+#can be used in incremental steps and negative step to decrement
+step = 1
+total = 0
+print(nameof(first),"\t",first)
+print(nameof(last),"\t",last)
+print(nameof(step),"\t",step)
+for num in range(first,last,step):
+    print(nameof(num),"\t", num)
+    total = total + num
+print(nameof(total),"\t",total)
+
+step = -1
+total = 0
+first = 10
+last = 5
+print(nameof(first),"\t",first)
+print(nameof(last),"\t",last)
+print(nameof(step),"\t",step)
+for num in range(first,last,step):
+    print(nameof(num),"\t", num)
+    total = total + num
+print(nameof(total),"\t",total)
