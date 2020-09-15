@@ -61,3 +61,14 @@ for num in range(5):
 
 print(nameof(total),"\t",total)
 
+# range can be used to start at a number and stop but not including the last number
+first = 0
+last = 5
+total = 0
+print(nameof(first),"\t",first)
+print(nameof(last),"\t",last)
+for num in range(first,last):
+    print(nameof(num),"\t", num)
+    total = total + num
+
+print(nameof(total),"\t",total)
