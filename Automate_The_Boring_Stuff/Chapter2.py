@@ -55,8 +55,9 @@ while y < repeat:
     y = y + 1
 
 total = 0
-for num in range(100):
+for num in range(5):
+    print(nameof(num),"\t",num)
     total = total + num
 
-print(total)
+print(nameof(total),"\t",total)
 
