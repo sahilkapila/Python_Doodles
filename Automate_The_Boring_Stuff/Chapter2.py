@@ -95,3 +95,16 @@ for num in range(first,last,step):
     print(nameof(num),"\t", num)
     total = total + num
 print(nameof(total),"\t",total)
+
+# Testing importing modules
+import random
+print("How many random numbers: ")
+n = int(input())
+print("Enter random from: ")
+randfrom = int(input())
+print("Enter random to: ")
+randto = int(input())
+for i in range(n):
+    print(nameof(n),":",n,"\t",nameof(randfrom),":",randfrom,"\t",nameof(randto),":",randto,"\t",nameof(i),":",i,"\t","Random Number",":",random.randint(randfrom,randto))
+
+##
