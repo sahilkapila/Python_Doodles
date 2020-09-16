@@ -12,26 +12,46 @@ def clear():
         os.system("clear")
 #clear()
 
-wins = 0
-ties = 0
-losses = 0
-ties = 0
+USERwins = 0
+USERties = 0
+USERlosses = 0
 gamelabels = ["Rock","Paper","Scissor"]
 
 optioncontinue = True
 while(optioncontinue):
-    #clear()
-    print(nameof(wins),":\t",wins," ",nameof(ties),":\t",ties," ",nameof(losses),":\t",losses)
+    clear()
+    print("System:\t",platform.system())
+    print(nameof(USERwins),":\t",USERwins," ",nameof(USERties),":\t",USERties," ",nameof(USERlosses),":\t",USERlosses)
     CPUchoice = random.randint(0,2)
-    print(nameof(CPUchoice),":\t",CPUchoice)
+    #print(nameof(CPUchoice),":\t",CPUchoice)
+    print(nameof(CPUchoice),":\t",gamelabels[CPUchoice])
     print("Enter your choice (0: Rock, 1: Paper, 2: Scissor):")
     USERchoice = int(input())
-    print(nameof(USERchoice),":\t",USERchoice)
+    #print(nameof(USERchoice),":\t",USERchoice)
+    print(nameof(USERchoice),":\t",gamelabels[USERchoice])
     if CPUchoice == USERchoice:
-        wins = wins + 1
-    else:
-        losses = losses + 1
+        USERties = USERties + 1
+
+    if CPUchoice == 0 and USERchoice == 1:
+        USERwins = USERwins + 1
+
+    if CPUchoice == 0 and USERchoice == 2:
+        USERlosses = USERlosses + 1
+
+    if CPUchoice == 1 and USERchoice == 0:
+        USERwins = USERwins + 1
+
+    if CPUchoice == 1 and USERchoice == 2:
+        USERlosses = USERlosses + 1
+
+    if CPUchoice == 2 and USERchoice == 0:
+        USERwins = USERwins + 1
+
+    if CPUchoice == 2 and USERchoice == 1:
+        USERlosses = USERlosses + 1
 
     print("Would you like to continue (Type yes), press enter if not : ")
     optioncontinue = bool(input())
+
+print(nameof(USERwins),":\t",USERwins," ",nameof(USERties),":\t",USERties," ",nameof(USERlosses),":\t",USERlosses)
 sys.exit(1)
