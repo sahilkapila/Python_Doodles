@@ -2,9 +2,12 @@
 import random, sys
 from varname import nameof
 
-secretnum = random.randint(1,20)
+
 randfrom = random.randint(1,3)
 randto = random.randint(8,10)
+
+secretnum = random.randint(randfrom,randto)
+
 print("I am thinking of a number from ",nameof(randfrom),":",randfrom," to ",nameof(randto),":",randto," .")
 
 print("How many times would you like to guess:")
