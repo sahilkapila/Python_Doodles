@@ -107,4 +107,16 @@ randto = int(input())
 for i in range(n):
     print(nameof(n),":",n,"\t",nameof(randfrom),":",randfrom,"\t",nameof(randto),":",randto,"\t",nameof(i),":",i,"\t","Random Number",":",random.randint(randfrom,randto))
 
-##
+## you can import multiple modules
+#import random, sys, os, math
+
+#Using the from to import modules
+#from <modulename> import *
+
+#using  sys.exit()
+
+import sys
+
+#sys.exit(1)
+
+
