@@ -3,4 +3,4 @@
  
  Following the book @ https://automatetheboringstuff.com/
  
- GitHub @ https://github.com/sahilkapila
+ Website @ https://sahilkapila.com
