@@ -12,3 +12,17 @@ def hello1(name):
 
 hello()
 hello1("Test")
+
+testvar = None
+
+def checkvar(var):
+    if var == None:
+        print("None")
+    else:
+        print("NOT NONE")
+
+checkvar(testvar)
+
+testvar = "Hello"
+
+checkvar(testvar)

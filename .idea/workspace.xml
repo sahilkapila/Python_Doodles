@@ -31,7 +31,7 @@
       <recent name="C:\Users\skapila\Documents\GitHub\Python_Doodles\Hello World" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cointoss">
+  <component name="RunManager" selected="Python.Chapter3">
     <configuration name="Chapter2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Doodles" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cointoss" />
         <item itemvalue="Python.Chapter3" />
+        <item itemvalue="Python.cointoss" />
         <item itemvalue="Python.rpsGame" />
         <item itemvalue="Python.guessTheNumber" />
         <item itemvalue="Python.Chapter2" />
@@ -163,25 +163,25 @@
       <screen x="0" y="0" width="1440" height="780" />
     </state>
     <state x="451" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1599999201824" />
-    <state width="1420" height="364" key="GridCell.Tab.0.bottom" timestamp="1600281202050">
+    <state width="1420" height="364" key="GridCell.Tab.0.bottom" timestamp="1600345403619">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600281202050" />
+    <state width="1420" height="364" key="GridCell.Tab.0.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600345403619" />
     <state width="1420" height="180" key="GridCell.Tab.0.bottom/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="364" key="GridCell.Tab.0.center" timestamp="1600281202050">
+    <state width="1420" height="364" key="GridCell.Tab.0.center" timestamp="1600345403619">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600281202050" />
+    <state width="1420" height="364" key="GridCell.Tab.0.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600345403619" />
     <state width="1420" height="180" key="GridCell.Tab.0.center/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="364" key="GridCell.Tab.0.left" timestamp="1600281202050">
+    <state width="1420" height="364" key="GridCell.Tab.0.left" timestamp="1600345403619">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600281202050" />
+    <state width="1420" height="364" key="GridCell.Tab.0.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600345403619" />
     <state width="1420" height="180" key="GridCell.Tab.0.left/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="364" key="GridCell.Tab.0.right" timestamp="1600281202050">
+    <state width="1420" height="364" key="GridCell.Tab.0.right" timestamp="1600345403619">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600281202050" />
+    <state width="1420" height="364" key="GridCell.Tab.0.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600345403619" />
     <state width="1420" height="180" key="GridCell.Tab.0.right/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
     <state width="1420" height="244" key="GridCell.Tab.1.bottom" timestamp="1600010815754">
       <screen x="0" y="0" width="1440" height="780" />
