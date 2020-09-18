@@ -67,3 +67,13 @@ func1()
 func1()
 func1()
 func1()
+
+#Testing out import from time and using sleep()
+
+import time
+
+print("Enter time to sleep in seconds : ",end=" ")
+timetosleep = int(input())
+print("Going to sleep for ",timetosleep," seconds...", end="\t")
+time.sleep(timetosleep)
+print("Refreshed....")

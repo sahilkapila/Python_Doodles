@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7744b66b-f34c-4fce-a3dc-acca2d958bb0" name="Default Changelist" comment="" />
+    <list default="true" id="7744b66b-f34c-4fce-a3dc-acca2d958bb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,28 +53,7 @@
       <recent name="C:\Users\skapila\Documents\GitHub\Python_Doodles\Hello World" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chapter3">
-    <configuration name="Chapter2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Doodles" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automate_The_Boring_Stuff" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.zigzag">
     <configuration name="Chapter3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Doodles" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,13 +138,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Doodles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automate_The_Boring_Stuff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate_The_Boring_Stuff/zigzag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zigzag" />
         <item itemvalue="Python.Chapter3" />
         <item itemvalue="Python.cointoss" />
         <item itemvalue="Python.rpsGame" />
         <item itemvalue="Python.guessTheNumber" />
-        <item itemvalue="Python.Chapter2" />
       </list>
     </recent_temporary>
   </component>
@@ -158,47 +180,58 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="451" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599999201824">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
     <state x="451" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1599999201824" />
-    <state width="1420" height="364" key="GridCell.Tab.0.bottom" timestamp="1600348381913">
+    <state width="1420" height="140" key="GridCell.Tab.0.bottom" timestamp="1600358138496">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600348381913" />
+    <state width="1420" height="140" key="GridCell.Tab.0.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600358138496" />
     <state width="1420" height="180" key="GridCell.Tab.0.bottom/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="364" key="GridCell.Tab.0.center" timestamp="1600348381913">
+    <state width="1420" height="140" key="GridCell.Tab.0.center" timestamp="1600358138496">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600348381913" />
+    <state width="1420" height="140" key="GridCell.Tab.0.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600358138496" />
     <state width="1420" height="180" key="GridCell.Tab.0.center/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="364" key="GridCell.Tab.0.left" timestamp="1600348381913">
+    <state width="1420" height="140" key="GridCell.Tab.0.left" timestamp="1600358138496">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600348381913" />
+    <state width="1420" height="140" key="GridCell.Tab.0.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600358138496" />
     <state width="1420" height="180" key="GridCell.Tab.0.left/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="364" key="GridCell.Tab.0.right" timestamp="1600348381913">
+    <state width="1420" height="140" key="GridCell.Tab.0.right" timestamp="1600358138496">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="364" key="GridCell.Tab.0.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600348381913" />
+    <state width="1420" height="140" key="GridCell.Tab.0.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600358138496" />
     <state width="1420" height="180" key="GridCell.Tab.0.right/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="244" key="GridCell.Tab.1.bottom" timestamp="1600010815754">
+    <state width="1420" height="244" key="GridCell.Tab.1.bottom" timestamp="1600354461771">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="244" key="GridCell.Tab.1.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600010815754" />
-    <state width="1420" height="244" key="GridCell.Tab.1.center" timestamp="1600010815753">
+    <state width="1420" height="244" key="GridCell.Tab.1.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600354461771" />
+    <state width="1420" height="244" key="GridCell.Tab.1.center" timestamp="1600354461771">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="244" key="GridCell.Tab.1.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600010815753" />
-    <state width="1420" height="244" key="GridCell.Tab.1.left" timestamp="1600010815753">
+    <state width="1420" height="244" key="GridCell.Tab.1.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600354461771" />
+    <state width="1420" height="244" key="GridCell.Tab.1.left" timestamp="1600354461771">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="244" key="GridCell.Tab.1.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600010815753" />
-    <state width="1420" height="244" key="GridCell.Tab.1.right" timestamp="1600010815754">
+    <state width="1420" height="244" key="GridCell.Tab.1.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600354461771" />
+    <state width="1420" height="244" key="GridCell.Tab.1.right" timestamp="1600354461771">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="244" key="GridCell.Tab.1.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600010815754" />
+    <state width="1420" height="244" key="GridCell.Tab.1.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600354461771" />
     <state x="384" y="103" width="672" height="678" key="search.everywhere.popup" timestamp="1600021634226">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
