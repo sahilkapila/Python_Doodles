@@ -27,3 +27,9 @@ print(mydictionary == mydictionary2)
 mydictionary2.pop("attr2")
 #Equal
 print(mydictionary2 == mydictionary)
+
+try:
+    print(mydictionary["attr3"])
+except KeyError:
+    print("Item not found!")
+

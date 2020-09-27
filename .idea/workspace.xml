@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744b66b-f34c-4fce-a3dc-acca2d958bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Conways_Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/magic8wlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/birthdays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/rpsGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/rpsGame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="C:\Users\skapila\Documents\GitHub\Python_Doodles\Hello World" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chapter5">
+  <component name="RunManager" selected="Python.birthdays">
     <configuration name="Chapter4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Doodles" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="magic8wlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="birthdays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Doodles" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate_The_Boring_Stuff/magic8wlist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automate_The_Boring_Stuff/birthdays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.birthdays" />
+        <item itemvalue="Python.Conways_Game" />
+        <item itemvalue="Python.rpsGame" />
         <item itemvalue="Python.Chapter5" />
         <item itemvalue="Python.Chapter4" />
-        <item itemvalue="Python.Conways_Game" />
-        <item itemvalue="Python.magic8wlist" />
-        <item itemvalue="Python.rpsGame" />
       </list>
     </recent_temporary>
   </component>
@@ -198,25 +197,25 @@
       <screen x="0" y="0" width="1440" height="780" />
     </state>
     <state x="451" y="137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1599999201824" />
-    <state width="1420" height="159" key="GridCell.Tab.0.bottom" timestamp="1601109566229">
+    <state width="1420" height="175" key="GridCell.Tab.0.bottom" timestamp="1601196360003">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="159" key="GridCell.Tab.0.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601109566229" />
+    <state width="1420" height="175" key="GridCell.Tab.0.bottom/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601196360003" />
     <state width="1420" height="180" key="GridCell.Tab.0.bottom/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="159" key="GridCell.Tab.0.center" timestamp="1601109566229">
+    <state width="1420" height="175" key="GridCell.Tab.0.center" timestamp="1601196360003">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="159" key="GridCell.Tab.0.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601109566229" />
+    <state width="1420" height="175" key="GridCell.Tab.0.center/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601196360003" />
     <state width="1420" height="180" key="GridCell.Tab.0.center/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="159" key="GridCell.Tab.0.left" timestamp="1601109566229">
+    <state width="1420" height="175" key="GridCell.Tab.0.left" timestamp="1601196360003">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="159" key="GridCell.Tab.0.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601109566229" />
+    <state width="1420" height="175" key="GridCell.Tab.0.left/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601196360003" />
     <state width="1420" height="180" key="GridCell.Tab.0.left/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
-    <state width="1420" height="159" key="GridCell.Tab.0.right" timestamp="1601109566229">
+    <state width="1420" height="175" key="GridCell.Tab.0.right" timestamp="1601196360003">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
-    <state width="1420" height="159" key="GridCell.Tab.0.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601109566229" />
+    <state width="1420" height="175" key="GridCell.Tab.0.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1601196360003" />
     <state width="1420" height="180" key="GridCell.Tab.0.right/0.0.1440.780@0.0.1440.780" timestamp="1600033186015" />
     <state width="1420" height="244" key="GridCell.Tab.1.bottom" timestamp="1600354461771">
       <screen x="0" y="0" width="1440" height="780" />

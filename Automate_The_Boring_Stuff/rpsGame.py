@@ -5,10 +5,10 @@ from varname import nameof
 
 def clear():
     if platform.system() == "Windows":
-        #print("System:","\t",platform.system())
+        print("System:",platform.system(), sep="\t")
         os.system("cls")
     if platform.system() == "Linux":
-        #print("System:", "\t", platform.system())
+        print("System:", platform.system(), sep="\t")
         os.system("clear")
 #clear()
 
@@ -20,6 +20,7 @@ gamelabels = ["Rock","Paper","Scissor"]
 optioncontinue = True
 while(optioncontinue):
     clear()
+    print(nameof(optioncontinue),":",optioncontinue,sep="\t")
     print("System:\t",platform.system())
     print(nameof(USERwins),":\t",USERwins," ",nameof(USERties),":\t",USERties," ",nameof(USERlosses),":\t",USERlosses)
     CPUchoice = random.randint(0,2)
