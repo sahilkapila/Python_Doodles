@@ -12,6 +12,25 @@ eightball =[
     "Outlook not so good",
     "Very doubtful"
 ]
+
+debugmode = {
+    "Status":"Active"
+}
+print("Enter Y for DEBUG Mode N for Normal (Default: Active):",end=" ")
+try:
+    inputvar1 = input()
+except KeyboardInterrupt:
+    print("Ending due to Interrupt!")
+    sys.exit(2)
+
+if inputvar1 == "Y" or inputvar1 == "y":
+    debugmode["Status"] = "Active"
+elif inputvar1 == "N" or inputvar1 == "n":
+    debugmode["Status"] = "Off"
+else:
+    print("BAD Choice.... Ending")
+    sys.exit(2)
+
 choice = True
 try:
     while(choice):
