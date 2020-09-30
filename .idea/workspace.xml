@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7744b66b-f34c-4fce-a3dc-acca2d958bb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Conways_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Conways_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/guessTheNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/guessTheNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/magic8wlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/magic8wlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/rpsGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/rpsGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/zigzag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/zigzag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Doodles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Doodles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automate_The_Boring_Stuff/Chapter5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -236,6 +234,10 @@
       <screen x="0" y="0" width="1440" height="780" />
     </state>
     <state width="1420" height="244" key="GridCell.Tab.1.right/0.0.1440.780/2880.407.1366.738@0.0.1440.780" timestamp="1600354461771" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1601447953311">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601447953311" />
     <state x="384" y="103" width="672" height="678" key="search.everywhere.popup" timestamp="1600021634226">
       <screen x="0" y="0" width="1440" height="780" />
     </state>
