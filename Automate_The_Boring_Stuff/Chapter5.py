@@ -69,5 +69,6 @@ else:
     print("Third is found!")
 
 
+print("hello")
 #checking if the key exists in the diction
 sys.exit(1)
