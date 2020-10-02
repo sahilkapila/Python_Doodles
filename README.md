@@ -4,3 +4,4 @@
  Following the book @ https://automatetheboringstuff.com/
  
  Website @ https://sahilkapila.com
+ Blog @ https://sahilkapila.de
